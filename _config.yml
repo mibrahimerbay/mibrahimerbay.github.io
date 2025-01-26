@@ -21,7 +21,7 @@ repository               : "kasimerbay/kasimerbay.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_photo.jpeg"
   name             : "Muhammed İbrahim Erbay, Dr."
   pronouns         : "he/his" # example: "he/his"  
   bio              : "Cardiovascular Research Enthusiast"
