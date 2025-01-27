@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile_photo.jpeg"
   name             : "Muhammed İbrahim Erbay, Dr."
-  pronouns         : "he/his" # example: "he/his"  
+  pronouns         : # "he/him" # example: "he/his"  
   bio              : "Cardiovascular Research Enthusiast"
   location         : "Istanbul / Turkey"
   employer         : "İstanbul University"

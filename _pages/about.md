@@ -6,63 +6,34 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## About Me
 
-# About Me ✨
+Hello! My name is Ibrahim, and I am a senior medical student with aspirations of becoming a cardiologist. My journey in medicine has been driven by a dedication to improving heart health and advancing care for patients, especially children.
 
-Welcome to my GitHub academic page! My name is **[Muhammmed İbrahim Erbay]**, and I am a passionate medical student currently studying at **[Istanbul University Cerrahpasa School of Medicine]**. My academic interests revolve around improving healthcare through clinical research, medical technology, and evidence-based medicine.
+### My Medical Journey
 
-## Education 🎓
+From high school, I have been committed to obtaining the best education possible, which has shaped my focus and determination to excel in my field. Currently, I am exploring opportunities to rotate in different medical hospitals to gain diverse perspectives on healthcare practices before selecting a residency program that aligns with my aspirations.
 
-- **Doctor of Medicine (MD)**
-  - *[July 2025]*
-  - [Istanbul University Cerrahpasa School of Medicine]
-  
+### Areas of Interest
 
-## Research Interests 🔬
+I have a deep interest in:
+- **Cardiac Arrhythmia and Electrophysiology**: Exploring procedures like RF/CB ablations and pacemaker insertions.
+- **Interventional Cardiology**: Merging precision with hands-on care to impact patients directly.
 
-- Advancements in [Specific Medical Field, e.g., Cardiovascular Researches, Neurology, etc.]
-- Applications of Artificial Intelligence in Medicine 🤖
-- Public Health and Epidemiology 🌍
-- Patient-Centered Care and Health Equity 💙
+### Leadership and Collaboration
 
-## Experience 💼
+I have gained significant experience as part of the ACC Medical Student Leadership Community, where we founded and led a Journal Club and spearheaded several impactful projects. Currently, I am organizing a multi-session Journal Club discussing the MASALA study and atherosclerotic risk enhancers—a fantastic opportunity to collaborate and dive into critical cardiovascular research topics.
 
-### Clinical Rotations
+### Research and Future Aspirations
 
-- **[Specialty, e.g., Internal Medicine]**, [Hospital Name]  
-  - Hands-on experience in diagnosing and managing various conditions.  
-  - Collaborated with interdisciplinary teams to deliver quality patient care.
+My goal is to contribute to advancing the field through innovative research while furthering my expertise in cardiac care. 
 
-- **[Specialty, e.g., Pediatrics]**, [Hospital Name]  
-  - Gained exposure to pediatric health management and developmental milestones.  
-  - Focused on preventive care and family education.
+### Outside the Clinic
 
-### Research 📚
+When I'm not immersed in medicine, I enjoy engaging with the medical community, staying updated on cutting-edge cardiology advancements, and mentoring fellow students.
 
-- **Research Assistant**, [Research Lab Name/Department]  
-  - Conducted studies on [Research Topic].  
-  - Published findings in [Journal Name] (if applicable).
+Feel free to explore my website to learn more about my work, interests, and ongoing projects. Thank you for stopping by!
 
-- **[Other Relevant Position]**, [Institution Name]  
-  - Contributed to [Brief Description of Work].
-
-## Skills 🛠️
-
-- Clinical skills: Patient interviews, physical examinations, and diagnostic reasoning
-- Research: Data analysis (e.g., R, Python), systematic reviews, manuscript preparation
-- Technical: Electronic health records (EHR), medical imaging software, basic programming
-- Communication: Public speaking, patient education, interdisciplinary collaboration
-
-## Hobbies & Interests 🎉
-
-When I am not immersed in medical studies or research, I enjoy:
-
-- Volunteering at community health clinics 🩺
-- Exploring advancements in medical technology 💡
-- Reading about bioethics and global health policies 📖
-- Hiking 🥾, photography 📸, and cooking 🍳
-
-Feel free to connect with me through, [LinkedIn](https://linkedin.com/in/ibrahimerbay), or [Twitter](https://twitter.com/yourusername).
 
 ---
 
