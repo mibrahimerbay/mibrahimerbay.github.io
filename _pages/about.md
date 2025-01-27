@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
 
 Hello! My name is Ibrahim, and I am a senior medical student with aspirations of becoming a cardiologist. My journey in medicine has been driven by a dedication to improving heart health and advancing care for patients, especially children.
 
