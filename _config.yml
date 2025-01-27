@@ -14,7 +14,7 @@ name                     : &name "Muhammed İbrahim Erbay"
 description              : &description "Medical Student"
 url                      : https://kasimerbay.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kasimerbay/kasimerbay.github.io"
+repository               : "mibrahimerbay/mibrahimerbay.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,17 +27,17 @@ author:
   bio              : "Cardiovascular Research Enthusiast"
   location         : "Istanbul / Turkey"
   employer         : "İstanbul University"
-  uri              : "https://www.linkedin.com/in/muhammed-ibrahim-erbay-81b76b1b5/"
+  uri              : "https://www.linkedin.com/in/mibrahimerbay/"
   email            : "m.ibrahimerbay@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=360x8HgAAAAJ&hl=tr&oi=sra"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4001-571X"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=muhammed+ibrahim+erbay"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Muhammed-Erbay-2"
   scopus           : # URL
 
   # Repositories and software development
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "muhammed-ibrahim-erbay-81b76b1b5"
+  linkedin         : "mibrahimerbay"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -66,7 +66,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "brhmrby"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
